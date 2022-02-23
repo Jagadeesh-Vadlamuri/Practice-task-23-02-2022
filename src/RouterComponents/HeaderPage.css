@@ -1,0 +1,35 @@
+.header-page{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    top:0;
+    margin: 0px;
+    position: sticky;
+    height: 100px;
+    background-color: white;
+}
+input[type= 'text']{
+    display: flex;
+    padding:18px;
+    align-items: center;
+    width: 350px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-left: 130px;
+    margin-right: 130px;
+    
+}
+.header-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    max-width: fit-content;
+    height: 20vh;
+    
+}
+.profile-icon{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-right: 50px;
+} 
